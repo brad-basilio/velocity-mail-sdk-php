@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "VelocityMail Team",
-            "email": "soporte@velocitymail.pe"
+            "name": "Bbrad Basilio",
+            "email": "brad.basilioppy@gmail.com"
         }
     ],
     "require": {
@@ -20,3 +20,4 @@
         }
     }
 }
+
